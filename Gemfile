@@ -10,6 +10,7 @@ gem 'test-unit'
  gem 'faker'
 gem 'capybara'
 
+
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 gem 'sprockets', '~> 3.0'
 gem 'bootstrap-sass',          '3.2.0.0'
